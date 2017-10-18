@@ -1,0 +1,51 @@
+Card Game: War
+
+//Sequence
+
+Instructions:
+1) Divide the deck evenly between 2 people so that each person receives 26 cards. 
+2) Each player places their stack of cards face down in front of them.
+3) Both players turn up a card at the same time. 
+4) The player with the higher card takes both cards and puts them face down on the bottom of their stack.
+5) If the cards have the same rank, that means "War" and each player turns up one card face down and one card face up.
+6) The player with the higher cards takes both piles. 
+7) If the turned up cards are again the same rank, each player places another card face down and turns another card face up. 
+8) Player with the highest card takes all 10 cards.
+9) Game ends when one player has won all the cards.
+
+//Selection
+
+Divide the deck evenly between two people so that each person receieves 26 cards.
+
+Each player places their stack of cards face down in front of them.
+
+Both players turn up a card at the same time :
+    Whoever has the higher card takes both cards and puts them face down on the bottom of their stack.
+    If the cards have the same rank, that means "War".
+    
+In "war", each player turns up one card face down and one card face up. :
+    The player with the higher cards take both piles.
+    If the turned up cards are again the same rank, each player places another card face down and turns another card face up.
+    
+Player with the highest card after the previous step takes all 10 cards.   
+
+Game ends when one player has won all the cards.
+
+//Repetition
+
+Divide the deck evenly between two people so that each person receieves 26 cards.
+
+Each player places their stack of cards face down in front of them. Both players turn up a card at the same time.
+
+For both players turn up a card at the same time, :
+    Whoever has the higher card takes both cards and puts them face down on the bottom of their stack.
+    If the cards have the same rank, that means "War".
+    
+For "war", each player turns up one card face down and one card face up. :
+    The player with the higher cards take both piles.
+    If the turned up cards are again the same rank, each player places another card face down and turns another card face up.
+    
+Player with the highest card after the previous step takes all 10 cards.
+
+Game ends when one player has won all the cards. 
+            
